@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=D:\MinhNCh\Altium-Database-Lib-MinhNCh\Altium_Component_Lib_Database.xlsm;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=D:\VPM\Altium-Database-Lib-MinhNCh\Altium_Component_Lib_Database.xlsm;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
 AddMode=3
 RemoveMode=1
 UpdateMode=2
@@ -12,14 +12,14 @@ QuoteTableNames=1
 UseTableSchemaName=0
 DefaultColumnType=VARCHAR(255)
 LibraryDatabaseType=Microsoft Excel
-LibraryDatabasePath=D:\MinhNCh\Altium-Database-Lib-MinhNCh\Altium_Component_Lib_Database.xlsm
+LibraryDatabasePath=D:\VPM\Altium-Database-Lib-MinhNCh\Altium_Component_Lib_Database.xlsm
 DatabasePathRelative=0
 TopPanelCollapsed=0
 LibrarySearchPath=Footprints;Symbols
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
-LastFocusedTable=035 Voltage Regulators$
+LastFocusedTable=001 Amplifiers$
 [Table1]
 SchemaName=
 TableName=001 Amplifiers$
@@ -32,306 +32,204 @@ TableName=002 Audio$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
 [Table3]
 SchemaName=
 TableName=003 Battery$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
 [Table4]
 SchemaName=
 TableName=004 Capacitors$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=650|Library Ref0=107|Footprint Ref0=265|DatabaseID0=82|Manufacturer0=151|Part Number0=119|Product Category0=309|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=155|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=436
 [Table5]
 SchemaName=
 TableName=005 Clock$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
 [Table6]
 SchemaName=
 TableName=006 Connectors$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
 [Table7]
 SchemaName=
 TableName=007 Controller$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
 [Table8]
 SchemaName=
 TableName=008 Current - regulation$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
 [Table9]
 SchemaName=
 TableName=009 Diode$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=307|Library Ref0=86|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=131|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=89|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=336
 [Table10]
 SchemaName=
 TableName=010 Display Modules$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
 [Table11]
 SchemaName=
 TableName=011 Embedded$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
 [Table12]
 SchemaName=
 TableName=012 Encoders$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
 [Table13]
 SchemaName=
 TableName=013 Filters$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
 [Table14]
 SchemaName=
 TableName=014 Fuses$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
 [Table15]
 SchemaName=
 TableName=015 Hardware $
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
 [Table16]
 SchemaName=
 TableName=016 Inductors$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=341|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=218|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=100|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=311
 [Table17]
 SchemaName=
 TableName=017 Interface$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
 [Table18]
 SchemaName=
 TableName=018 Isolators$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
 [Table19]
 SchemaName=
 TableName=019 LED $
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
 [Table20]
 SchemaName=
 TableName=020 Logic $
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
 [Table21]
 SchemaName=
 TableName=021 MOSFET$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
 [Table22]
 SchemaName=
 TableName=022 Memory$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
 [Table23]
 SchemaName=
 TableName=023 Motor Drivers Controller$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
 [Table24]
 SchemaName=
 TableName=024 Optics$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
 [Table25]
 SchemaName=
 TableName=025 Optoelectronics$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
 [Table26]
 SchemaName=
 TableName=026 Optoisolators$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
 [Table27]
 SchemaName=
 TableName=027 Osillators$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
 [Table28]
 SchemaName=
 TableName=028 Power$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=293|Library Ref0=140|Footprint Ref0=138|DatabaseID0=82|Manufacturer0=93|Part Number0=116|Product Category0=216|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=93|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=569|LINK ORIGINAL0=300
 [Table29]
 SchemaName=
 TableName=029 RF$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
 [Table30]
 SchemaName=
 TableName=030 Relays$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
 [Table31]
 SchemaName=
 TableName=031 Resistors$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=511|Library Ref0=161|Footprint Ref0=121|DatabaseID0=82|Manufacturer0=93|Part Number0=108|Product Category0=212|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=109|LIBRARTY MADE BY0=117|LINK VIET NAM0=583|LINK ORIGINAL0=399
 [Table32]
 SchemaName=
 TableName=032 Sensors$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
 [Table33]
 SchemaName=
 TableName=033 Switches$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
 [Table34]
 SchemaName=
 TableName=034 Transistors$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
 [Table35]
 SchemaName=
 TableName=035 Voltage Regulators$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
 [Table36]
 SchemaName=
 TableName=Information$
