@@ -1,0 +1,2 @@
+./push.sh "Ghi chú commit"
+./pull.sh
