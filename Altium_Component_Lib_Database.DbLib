@@ -1,0 +1,620 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=D:\MinhNCh\Altium-Database-Lib-MinhNCh\Altium_Component_Lib_Database.xlsm;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=0
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Excel
+LibraryDatabasePath=D:\MinhNCh\Altium-Database-Lib-MinhNCh\Altium_Component_Lib_Database.xlsm
+DatabasePathRelative=0
+TopPanelCollapsed=0
+LibrarySearchPath=Footprints;Symbols
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=1
+SchemaName=
+LastFocusedTable=035 Voltage Regulators$
+[Table1]
+SchemaName=
+TableName=001 Amplifiers$
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table2]
+SchemaName=
+TableName=002 Audio$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
+[Table3]
+SchemaName=
+TableName=003 Battery$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
+[Table4]
+SchemaName=
+TableName=004 Capacitors$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=650|Library Ref0=107|Footprint Ref0=265|DatabaseID0=82|Manufacturer0=151|Part Number0=119|Product Category0=309|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=155|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=436
+[Table5]
+SchemaName=
+TableName=005 Clock$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
+[Table6]
+SchemaName=
+TableName=006 Connectors$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
+[Table7]
+SchemaName=
+TableName=007 Controller$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
+[Table8]
+SchemaName=
+TableName=008 Current - regulation$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
+[Table9]
+SchemaName=
+TableName=009 Diode$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=307|Library Ref0=86|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=131|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=89|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=336
+[Table10]
+SchemaName=
+TableName=010 Display Modules$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
+[Table11]
+SchemaName=
+TableName=011 Embedded$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
+[Table12]
+SchemaName=
+TableName=012 Encoders$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
+[Table13]
+SchemaName=
+TableName=013 Filters$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
+[Table14]
+SchemaName=
+TableName=014 Fuses$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
+[Table15]
+SchemaName=
+TableName=015 Hardware $
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
+[Table16]
+SchemaName=
+TableName=016 Inductors$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=341|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=218|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=100|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=311
+[Table17]
+SchemaName=
+TableName=017 Interface$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
+[Table18]
+SchemaName=
+TableName=018 Isolators$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
+[Table19]
+SchemaName=
+TableName=019 LED $
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
+[Table20]
+SchemaName=
+TableName=020 Logic $
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
+[Table21]
+SchemaName=
+TableName=021 MOSFET$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
+[Table22]
+SchemaName=
+TableName=022 Memory$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
+[Table23]
+SchemaName=
+TableName=023 Motor Drivers Controller$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
+[Table24]
+SchemaName=
+TableName=024 Optics$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
+[Table25]
+SchemaName=
+TableName=025 Optoelectronics$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
+[Table26]
+SchemaName=
+TableName=026 Optoisolators$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
+[Table27]
+SchemaName=
+TableName=027 Osillators$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
+[Table28]
+SchemaName=
+TableName=028 Power$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=293|Library Ref0=140|Footprint Ref0=138|DatabaseID0=82|Manufacturer0=93|Part Number0=116|Product Category0=216|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=93|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=569|LINK ORIGINAL0=300
+[Table29]
+SchemaName=
+TableName=029 RF$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
+[Table30]
+SchemaName=
+TableName=030 Relays$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
+[Table31]
+SchemaName=
+TableName=031 Resistors$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=511|Library Ref0=161|Footprint Ref0=121|DatabaseID0=82|Manufacturer0=93|Part Number0=108|Product Category0=212|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=109|LIBRARTY MADE BY0=117|LINK VIET NAM0=583|LINK ORIGINAL0=399
+[Table32]
+SchemaName=
+TableName=032 Sensors$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
+[Table33]
+SchemaName=
+TableName=033 Switches$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
+[Table34]
+SchemaName=
+TableName=034 Transistors$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
+[Table35]
+SchemaName=
+TableName=035 Voltage Regulators$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=82|Library Ref0=77|Footprint Ref0=92|DatabaseID0=82|Manufacturer0=93|Part Number0=87|Product Category0=112|Value0=52|Alt-Value0=70|Tolerance0=73|DC Rating0=75|Power Rating0=92|Package0=65|Length0=59|Width0=55|Hight0=52|Dimension (mm)0=105|LIBRARTY MADE BY0=117|LINK VIET NAM0=98|LINK ORIGINAL0=98
+[Table36]
+SchemaName=
+TableName=Information$
+Enabled=False
+UserWhere=0
+UserWhereText=
+[FieldMap1]
+Options=FieldName=001 Amplifiers$.Description|TableNameOnly=001 Amplifiers$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=001 Amplifiers$.Library Ref|TableNameOnly=001 Amplifiers$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=001 Amplifiers$.Footprint Ref|TableNameOnly=001 Amplifiers$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=001 Amplifiers$.Part Number|TableNameOnly=001 Amplifiers$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=002 Audio$.Description|TableNameOnly=002 Audio$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=002 Audio$.Library Ref|TableNameOnly=002 Audio$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=002 Audio$.Footprint Ref|TableNameOnly=002 Audio$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=002 Audio$.Part Number|TableNameOnly=002 Audio$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap9]
+Options=FieldName=003 Battery$.Description|TableNameOnly=003 Battery$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap10]
+Options=FieldName=003 Battery$.Library Ref|TableNameOnly=003 Battery$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap11]
+Options=FieldName=003 Battery$.Footprint Ref|TableNameOnly=003 Battery$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap12]
+Options=FieldName=003 Battery$.Part Number|TableNameOnly=003 Battery$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap13]
+Options=FieldName=004 Capacitors$.Description|TableNameOnly=004 Capacitors$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap14]
+Options=FieldName=004 Capacitors$.Library Ref|TableNameOnly=004 Capacitors$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap15]
+Options=FieldName=004 Capacitors$.Footprint Ref|TableNameOnly=004 Capacitors$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap16]
+Options=FieldName=004 Capacitors$.Part Number|TableNameOnly=004 Capacitors$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap17]
+Options=FieldName=005 Clock$.Description|TableNameOnly=005 Clock$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap18]
+Options=FieldName=005 Clock$.Library Ref|TableNameOnly=005 Clock$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap19]
+Options=FieldName=005 Clock$.Footprint Ref|TableNameOnly=005 Clock$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap20]
+Options=FieldName=005 Clock$.Part Number|TableNameOnly=005 Clock$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap21]
+Options=FieldName=006 Connectors$.Description|TableNameOnly=006 Connectors$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap22]
+Options=FieldName=006 Connectors$.Library Ref|TableNameOnly=006 Connectors$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap23]
+Options=FieldName=006 Connectors$.Footprint Ref|TableNameOnly=006 Connectors$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap24]
+Options=FieldName=006 Connectors$.Part Number|TableNameOnly=006 Connectors$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap25]
+Options=FieldName=007 Controller$.Description|TableNameOnly=007 Controller$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap26]
+Options=FieldName=007 Controller$.Library Ref|TableNameOnly=007 Controller$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap27]
+Options=FieldName=007 Controller$.Footprint Ref|TableNameOnly=007 Controller$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap28]
+Options=FieldName=007 Controller$.Part Number|TableNameOnly=007 Controller$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap29]
+Options=FieldName=008 Current - regulation$.Description|TableNameOnly=008 Current - regulation$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap30]
+Options=FieldName=008 Current - regulation$.Library Ref|TableNameOnly=008 Current - regulation$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap31]
+Options=FieldName=008 Current - regulation$.Footprint Ref|TableNameOnly=008 Current - regulation$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap32]
+Options=FieldName=008 Current - regulation$.Part Number|TableNameOnly=008 Current - regulation$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap33]
+Options=FieldName=009 Diode$.Description|TableNameOnly=009 Diode$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap34]
+Options=FieldName=009 Diode$.Library Ref|TableNameOnly=009 Diode$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap35]
+Options=FieldName=009 Diode$.Footprint Ref|TableNameOnly=009 Diode$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap36]
+Options=FieldName=009 Diode$.Part Number|TableNameOnly=009 Diode$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap37]
+Options=FieldName=010 Display Modules$.Description|TableNameOnly=010 Display Modules$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap38]
+Options=FieldName=010 Display Modules$.Library Ref|TableNameOnly=010 Display Modules$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap39]
+Options=FieldName=010 Display Modules$.Footprint Ref|TableNameOnly=010 Display Modules$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap40]
+Options=FieldName=010 Display Modules$.Part Number|TableNameOnly=010 Display Modules$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap41]
+Options=FieldName=011 Embedded$.Description|TableNameOnly=011 Embedded$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap42]
+Options=FieldName=011 Embedded$.Library Ref|TableNameOnly=011 Embedded$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap43]
+Options=FieldName=011 Embedded$.Footprint Ref|TableNameOnly=011 Embedded$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap44]
+Options=FieldName=011 Embedded$.Part Number|TableNameOnly=011 Embedded$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap45]
+Options=FieldName=012 Encoders$.Description|TableNameOnly=012 Encoders$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap46]
+Options=FieldName=012 Encoders$.Library Ref|TableNameOnly=012 Encoders$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap47]
+Options=FieldName=012 Encoders$.Footprint Ref|TableNameOnly=012 Encoders$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap48]
+Options=FieldName=012 Encoders$.Part Number|TableNameOnly=012 Encoders$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap49]
+Options=FieldName=013 Filters$.Description|TableNameOnly=013 Filters$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap50]
+Options=FieldName=013 Filters$.Library Ref|TableNameOnly=013 Filters$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap51]
+Options=FieldName=013 Filters$.Footprint Ref|TableNameOnly=013 Filters$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap52]
+Options=FieldName=013 Filters$.Part Number|TableNameOnly=013 Filters$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap53]
+Options=FieldName=014 Fuses$.Description|TableNameOnly=014 Fuses$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap54]
+Options=FieldName=014 Fuses$.Library Ref|TableNameOnly=014 Fuses$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap55]
+Options=FieldName=014 Fuses$.Footprint Ref|TableNameOnly=014 Fuses$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap56]
+Options=FieldName=014 Fuses$.Part Number|TableNameOnly=014 Fuses$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap57]
+Options=FieldName=015 Hardware $.Description|TableNameOnly=015 Hardware $|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap58]
+Options=FieldName=015 Hardware $.Library Ref|TableNameOnly=015 Hardware $|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap59]
+Options=FieldName=015 Hardware $.Footprint Ref|TableNameOnly=015 Hardware $|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap60]
+Options=FieldName=015 Hardware $.Part Number|TableNameOnly=015 Hardware $|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap61]
+Options=FieldName=016 Inductors$.Description|TableNameOnly=016 Inductors$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap62]
+Options=FieldName=016 Inductors$.Library Ref|TableNameOnly=016 Inductors$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap63]
+Options=FieldName=016 Inductors$.Footprint Ref|TableNameOnly=016 Inductors$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap64]
+Options=FieldName=016 Inductors$.Part Number|TableNameOnly=016 Inductors$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap65]
+Options=FieldName=017 Interface$.Description|TableNameOnly=017 Interface$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap66]
+Options=FieldName=017 Interface$.Library Ref|TableNameOnly=017 Interface$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap67]
+Options=FieldName=017 Interface$.Footprint Ref|TableNameOnly=017 Interface$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap68]
+Options=FieldName=017 Interface$.Part Number|TableNameOnly=017 Interface$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap69]
+Options=FieldName=018 Isolators$.Description|TableNameOnly=018 Isolators$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap70]
+Options=FieldName=018 Isolators$.Library Ref|TableNameOnly=018 Isolators$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap71]
+Options=FieldName=018 Isolators$.Footprint Ref|TableNameOnly=018 Isolators$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap72]
+Options=FieldName=018 Isolators$.Part Number|TableNameOnly=018 Isolators$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap73]
+Options=FieldName=019 LED $.Description|TableNameOnly=019 LED $|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap74]
+Options=FieldName=019 LED $.Library Ref|TableNameOnly=019 LED $|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap75]
+Options=FieldName=019 LED $.Footprint Ref|TableNameOnly=019 LED $|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap76]
+Options=FieldName=019 LED $.Part Number|TableNameOnly=019 LED $|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap77]
+Options=FieldName=020 Logic $.Description|TableNameOnly=020 Logic $|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap78]
+Options=FieldName=020 Logic $.Library Ref|TableNameOnly=020 Logic $|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap79]
+Options=FieldName=020 Logic $.Footprint Ref|TableNameOnly=020 Logic $|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap80]
+Options=FieldName=020 Logic $.Part Number|TableNameOnly=020 Logic $|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap81]
+Options=FieldName=021 MOSFET$.Description|TableNameOnly=021 MOSFET$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap82]
+Options=FieldName=021 MOSFET$.Library Ref|TableNameOnly=021 MOSFET$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap83]
+Options=FieldName=021 MOSFET$.Footprint Ref|TableNameOnly=021 MOSFET$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap84]
+Options=FieldName=021 MOSFET$.Part Number|TableNameOnly=021 MOSFET$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap85]
+Options=FieldName=022 Memory$.Description|TableNameOnly=022 Memory$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap86]
+Options=FieldName=022 Memory$.Library Ref|TableNameOnly=022 Memory$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap87]
+Options=FieldName=022 Memory$.Footprint Ref|TableNameOnly=022 Memory$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap88]
+Options=FieldName=022 Memory$.Part Number|TableNameOnly=022 Memory$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap89]
+Options=FieldName=023 Motor Drivers Controller$.Description|TableNameOnly=023 Motor Drivers Controller$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap90]
+Options=FieldName=023 Motor Drivers Controller$.Library Ref|TableNameOnly=023 Motor Drivers Controller$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap91]
+Options=FieldName=023 Motor Drivers Controller$.Footprint Ref|TableNameOnly=023 Motor Drivers Controller$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap92]
+Options=FieldName=023 Motor Drivers Controller$.Part Number|TableNameOnly=023 Motor Drivers Controller$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap93]
+Options=FieldName=024 Optics$.Description|TableNameOnly=024 Optics$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap94]
+Options=FieldName=024 Optics$.Library Ref|TableNameOnly=024 Optics$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap95]
+Options=FieldName=024 Optics$.Footprint Ref|TableNameOnly=024 Optics$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap96]
+Options=FieldName=024 Optics$.Part Number|TableNameOnly=024 Optics$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap97]
+Options=FieldName=025 Optoelectronics$.Description|TableNameOnly=025 Optoelectronics$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap98]
+Options=FieldName=025 Optoelectronics$.Library Ref|TableNameOnly=025 Optoelectronics$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap99]
+Options=FieldName=025 Optoelectronics$.Footprint Ref|TableNameOnly=025 Optoelectronics$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap100]
+Options=FieldName=025 Optoelectronics$.Part Number|TableNameOnly=025 Optoelectronics$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap101]
+Options=FieldName=026 Optoisolators$.Description|TableNameOnly=026 Optoisolators$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap102]
+Options=FieldName=026 Optoisolators$.Library Ref|TableNameOnly=026 Optoisolators$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap103]
+Options=FieldName=026 Optoisolators$.Footprint Ref|TableNameOnly=026 Optoisolators$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap104]
+Options=FieldName=026 Optoisolators$.Part Number|TableNameOnly=026 Optoisolators$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap105]
+Options=FieldName=027 Osillators$.Description|TableNameOnly=027 Osillators$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap106]
+Options=FieldName=027 Osillators$.Library Ref|TableNameOnly=027 Osillators$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap107]
+Options=FieldName=027 Osillators$.Footprint Ref|TableNameOnly=027 Osillators$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap108]
+Options=FieldName=027 Osillators$.Part Number|TableNameOnly=027 Osillators$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap109]
+Options=FieldName=028 Power$.Description|TableNameOnly=028 Power$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap110]
+Options=FieldName=028 Power$.Library Ref|TableNameOnly=028 Power$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap111]
+Options=FieldName=028 Power$.Footprint Ref|TableNameOnly=028 Power$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap112]
+Options=FieldName=028 Power$.Part Number|TableNameOnly=028 Power$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap113]
+Options=FieldName=029 RF$.Description|TableNameOnly=029 RF$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap114]
+Options=FieldName=029 RF$.Library Ref|TableNameOnly=029 RF$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap115]
+Options=FieldName=029 RF$.Footprint Ref|TableNameOnly=029 RF$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap116]
+Options=FieldName=029 RF$.Part Number|TableNameOnly=029 RF$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap117]
+Options=FieldName=030 Relays$.Description|TableNameOnly=030 Relays$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap118]
+Options=FieldName=030 Relays$.Library Ref|TableNameOnly=030 Relays$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap119]
+Options=FieldName=030 Relays$.Footprint Ref|TableNameOnly=030 Relays$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap120]
+Options=FieldName=030 Relays$.Part Number|TableNameOnly=030 Relays$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap121]
+Options=FieldName=031 Resistors$.Description|TableNameOnly=031 Resistors$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap122]
+Options=FieldName=031 Resistors$.Library Ref|TableNameOnly=031 Resistors$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap123]
+Options=FieldName=031 Resistors$.Footprint Ref|TableNameOnly=031 Resistors$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap124]
+Options=FieldName=031 Resistors$.Part Number|TableNameOnly=031 Resistors$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap125]
+Options=FieldName=032 Sensors$.Description|TableNameOnly=032 Sensors$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap126]
+Options=FieldName=032 Sensors$.Library Ref|TableNameOnly=032 Sensors$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap127]
+Options=FieldName=032 Sensors$.Footprint Ref|TableNameOnly=032 Sensors$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap128]
+Options=FieldName=032 Sensors$.Part Number|TableNameOnly=032 Sensors$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap129]
+Options=FieldName=033 Switches$.Description|TableNameOnly=033 Switches$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap130]
+Options=FieldName=033 Switches$.Library Ref|TableNameOnly=033 Switches$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap131]
+Options=FieldName=033 Switches$.Footprint Ref|TableNameOnly=033 Switches$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap132]
+Options=FieldName=033 Switches$.Part Number|TableNameOnly=033 Switches$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap133]
+Options=FieldName=034 Transistors$.Description|TableNameOnly=034 Transistors$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap134]
+Options=FieldName=034 Transistors$.Library Ref|TableNameOnly=034 Transistors$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap135]
+Options=FieldName=034 Transistors$.Footprint Ref|TableNameOnly=034 Transistors$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap136]
+Options=FieldName=034 Transistors$.Part Number|TableNameOnly=034 Transistors$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap137]
+Options=FieldName=035 Voltage Regulators$.Description|TableNameOnly=035 Voltage Regulators$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap138]
+Options=FieldName=035 Voltage Regulators$.Library Ref|TableNameOnly=035 Voltage Regulators$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap139]
+Options=FieldName=035 Voltage Regulators$.Footprint Ref|TableNameOnly=035 Voltage Regulators$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap140]
+Options=FieldName=035 Voltage Regulators$.Part Number|TableNameOnly=035 Voltage Regulators$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
